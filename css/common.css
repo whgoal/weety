@@ -1,0 +1,196 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+    height: 100%;
+    font-family: 'pretendard';
+    font-size: 18px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    overflow-x: hidden;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ header */
+
+header {
+    width: 100%;
+    position: fixed;
+    z-index: 999999;
+    height: 96px;
+    transition: top 0.6s ease-in-out;
+    top: 0;
+    left: 0;
+}
+
+.nav-up {
+    top: -126px;
+}
+
+header .logo {
+    position: absolute;
+    float: left;
+    margin-top: 25px;
+    margin-left: 100px;
+}
+
+header .main_menu {
+    margin-top: 91px;
+    margin-right: 139px;
+    float: right;
+}
+
+header .main_menu ul {
+    margin: 0 auto;
+    text-align: center;
+    display: inline;
+}
+
+header .main_menu li {
+    display: inline;
+    margin-left: 64px;
+    margin-top: 910px;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ menu */
+
+header .main_menu {
+    margin-top: 25px;
+    margin-right: 100px;
+    float: right;
+}
+
+header .main_menu ul {
+    width: 100px;
+    margin: 0 auto;
+    padding-top: 12px;
+    text-align: center;
+    display: inline;
+}
+
+header .main_menu li {
+    display: inline;
+    margin-left: 40px;
+    font-size: 24px;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~main */
+.main {
+    justify-content: center;
+}
+
+.main .main_01 {
+    margin: 372px 1462px 0 193px;
+}
+
+.main p {
+    margin: 13px 0 0 203px;
+    color: #ffffff;
+    font-size: 28px;
+}
+
+.main .main_btn01 {
+    margin: 36px 0 0 203px;
+}
+
+.main .main_btn02 {
+    margin: 36px 0 0 23px;
+}
+
+.main .main_bg {
+    width: 100%;
+    top: 90px;
+    z-index: -99999;
+    position: absolute;
+}
+
+.main_mk {
+    position: absolute;
+    left: 901px;
+    top: 188px;
+    animation: jump .5s cubic-bezier(.17, .67, .32, .99) infinite alternate;
+}
+
+@keyframes jump {
+    0% {
+        top: auto;
+        bottom: -350px;
+    }
+
+    100% {
+        top: auto;
+        bottom: -300px;
+    }
+}
+
+.fix_btn .sub {
+    left: 1754px;
+    top: 752px;
+    position: fixed;
+    z-index: 999;
+}
+
+.fix_btn .top {
+    left: 1754px;
+    top: 838px;
+    position: fixed;
+    z-index: 999;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~ footer */
+
+footer .footer_white {
+    position: absolute;
+    width: 100%;
+    height: 786px;
+    top: 14200px;
+    background-color: #ffffff;
+}
+
+footer .footer_pink {
+    position: absolute;
+    width: 100%;
+    height: 143.24px;
+    top: 14986.47px;
+    background-color: #EC9FA5;
+}
+
+.footer_white .footer_txt {
+    left: -300px;
+    top: 80px;
+    position: absolute;
+
+}
+
+.footer_white .footer_we {
+    margin-top: 181px;
+    margin-left: 40px;
+
+}
+
+.footer_pink .footer_text1 {
+    position: absolute;
+    left: 100px;
+    top: 70px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    color: #ffffff;
+}
+
+.footer_pink .footer_text2 {
+    margin-top: 70px;
+    margin-right: 200px;
+    float: right;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.content div {
+    position: absolute;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+    text-decoration: none;
+    color: #000000;
+}
+
+.clear {
+    clear: both;
+}
+
+.wrap {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+img {
+    border: 0;
+}

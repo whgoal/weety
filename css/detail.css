@@ -1,0 +1,621 @@
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ Helloweare */
+iframe {
+    height: 720px;
+    width: 1280px;
+    margin-left: 319.5712890625px;
+    border-radius: 0px;
+    padding-top: 100px;
+}
+
+.Helloweare_01 #btn {
+    position: absolute;
+    left: 1723px;
+    top: 1708.8935546875px;
+}
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ service is */
+.dot0 {
+    position: absolute;
+    left: 207.74755859375px;
+    top: 2574.0234375px;
+}
+
+.app_first .title {
+    color: #3c3c33;
+    font-size: 48px;
+    line-height: 57px;
+    font-weight: 700;
+    left: 247px;
+    top: 2594.15px;
+    position: absolute;
+}
+
+.app_first .contents {
+    color: #3c3c33;
+    font-size: 28px;
+    line-height: 40px;
+    font-weight: 400;
+    left: 247px;
+    top: 2683.54px;
+    position: absolute;
+}
+
+.app_first_gif {
+    height: 703.603515625px;
+    width: 1526px;
+    left: 197px;
+    top: 2843.0791015625px;
+    border-radius: 0px;
+    position: absolute;
+}
+
+.app_kit .app_kit_gif {
+    height: 1076px;
+    width: 1033px;
+    left: 247px;
+    top: 3790px;
+    border-radius: 0px;
+
+    position: absolute;
+}
+
+.dot1 {
+    left: 1045px;
+    top: 3963.76px;
+    position: absolute;
+}
+
+.app_kit .title1 {
+    position: absolute;
+    left: 1083px;
+    top: 3983.75px;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 62px;
+    color: #3C3C3C;
+}
+
+.app_kit .contents1 {
+    position: absolute;
+    left: 1083px;
+    top: 4139.98px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 41px;
+    color: #3C3C3C;
+}
+
+.dot2 {
+    left: 306.4px;
+    top: 5172.9px;
+    position: absolute;
+}
+
+.app_money .title2 {
+    color: #3c3c33;
+    font-size: 48px;
+    line-height: 57px;
+    font-weight: 700;
+    left: 344.98px;
+    top: 5192.64px;
+    position: absolute;
+}
+
+.app_money .contents2 {
+    color: #3c3c33;
+    font-size: 28px;
+    line-height: 40px;
+    font-weight: 400;
+    left: 344.98px;
+    top: 5348.87px;
+    position: absolute;
+}
+
+.app_money_gif {
+    left: 692px;
+    top: 5015px;
+    position: absolute;
+    z-index: -1;
+}
+
+.app_borrow .app_03 {
+    height: 1050px;
+    width: 1476px;
+    left: 198px;
+    top: 6125px;
+    position: absolute;
+}
+
+.app_borrow .worry {
+    height: 198px;
+    width: 592.5859375px;
+    left: 1054px;
+    top: 6373px;
+    position: absolute;
+}
+
+.app_review .re_title {
+    position: absolute;
+    left: 258.62px;
+    top: 7532px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #3C3C3C;
+}
+
+.app_review .re_contents {
+    position: absolute;
+    left: 262.84px;
+    top: 7623.9px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 41px;
+    color: #3C3C3C;
+}
+
+.re11 {
+    left: 277.91986083984375px;
+    top: 8155px;
+    position: absolute;
+}
+
+.re22 {
+    position: absolute;
+    left: 797.51px;
+    top: 8155px;
+    position: absolute;
+}
+
+.re33 {
+    left: 1317.08984375px;
+    top: 8155px;
+    position: absolute;
+}
+
+.ff_u {
+    display: flex;
+    justify-content: space-between;
+    width: 1000px;
+    list-style: none;
+}
+
+.ff_l1 {
+    position: absolute;
+    left: 267px;
+    top: 8155.9px;
+    width: 324.99px;
+    height: 441.14px;
+}
+
+.ff_l2 {
+    position: absolute;
+    left: 804px;
+    top: 8155.9px;
+    width: 324.99px;
+    height: 441.14px;
+}
+
+.ff_l3 {
+    position: absolute;
+    left: 1360px;
+    top: 8155.9px;
+    width: 324.99px;
+    height: 441.14px;
+}
+
+.flip1 {
+    transition: all .7s ease-in-out;
+    transform-style: preserve-3d;
+}
+
+.flip2 {
+    transition: all .7s ease-in-out;
+    transform-style: preserve-3d;
+}
+
+.flip3 {
+    transition: all .7s ease-in-out;
+    transform-style: preserve-3d;
+}
+
+.flip1>div {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.flip2>div {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.flip3>div {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.front {
+    width: 324.99px;
+    height: 441.14px;
+    background-color: #ffffff;
+}
+
+.back {
+    transform: rotateY(180deg) translate3d(0, 0, 3px);
+}
+
+.btn1 {
+    left: 277.91986083984375px;
+    top: 7755px;
+    position: absolute;
+}
+
+.btn2 {
+    position: absolute;
+    left: 797.51px;
+    top: 7755px;
+    position: absolute;
+}
+
+.btn3 {
+    left: 1317.08984375px;
+    top: 7755px;
+    position: absolute;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ deeginwork */
+.hov01 .animated {
+    display: none;
+}
+
+.hov01:hover .animated {
+    display: inline;
+}
+
+.bi .title {
+    position: absolute;
+    left: 250.32px;
+    top: 8865px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #3C3C3C;
+}
+
+.bi .contents {
+    position: absolute;
+    left: 247px;
+    top: 8962.94px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 28px;
+    color: #3C3C3C;
+}
+
+.bi_motion {
+    left: 1231px;
+    top: 9049.2px;
+    position: absolute;
+}
+
+.bi_01 {
+    height: 216px;
+    width: 296px;
+    left: 248px;
+    top: 9186.55px;
+    position: absolute;
+}
+
+.bi_02 {
+    left: 691px;
+    top: 9230.38px;
+    position: absolute;
+}
+
+.brand1 {
+    position: absolute;
+    width: 729px;
+    height: 378px;
+    left: 0px;
+    top: 10048px;
+}
+
+.brand2 {
+    position: absolute;
+    width: 935px;
+    height: 378px;
+    left: 100px;
+    top: 10048px;
+    z-index: -1;
+}
+
+.brand3 {
+    position: absolute;
+    width: 1208px;
+    height: 378px;
+    left: 100px;
+    top: 10048px;
+    z-index: -2;
+}
+
+.brand4 {
+    position: absolute;
+    width: 1462px;
+    height: 378px;
+    left: 100px;
+    top: 10048px;
+    z-index: -3;
+}
+
+.brand5 {
+    position: absolute;
+    width: 1719px;
+    height: 378px;
+    left: 100px;
+    top: 10048px;
+    z-index: -4;
+}
+
+.brand_color .title {
+    position: absolute;
+    left: 247px;
+    top: 9811px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.brand_color .contents {
+    position: absolute;
+    left: 247px;
+    top: 9908.3px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 28px;
+}
+
+.show1 {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 276px;
+    height: 276px;
+    background: url('../img/bbang_a1.png') no-repeat;
+    background-size: cover;
+    animation: run 1s infinite steps(7);
+}
+
+.show2 {
+    position: absolute;
+    left: 0;
+    top: 400px;
+    width: 276px;
+    height: 276px;
+    background: url('../img/bbang_a2.png') no-repeat;
+    background-size: cover;
+    animation: run 1s infinite steps(7);
+}
+
+@keyframes run {
+    100% {
+        background-position: -1933px 0;
+    }
+}
+
+.character .main01 {
+    height: 293px;
+    width: 386px;
+    width: 276px;
+    height: 276px;
+    left: 297px;
+    top: 11091.16796875px;
+    position: absolute;
+}
+
+.character .main02 {
+    height: 294px;
+    width: 381px;
+    width: 276px;
+    height: 276px;
+    left: 724px;
+    top: 11091.16796875px;
+    position: absolute;
+}
+
+.character .sub01 {
+    height: 207px;
+    width: 237px;
+    left: 1135.334228515625px;
+    top: 10775px;
+    position: absolute;
+}
+
+.character .sub02 {
+    height: 147px;
+    width: 236px;
+    left: 1467.9835205078125px;
+    top: 10821.16796875px;
+    position: absolute;
+}
+
+.character .sub03 {
+    height: 216px;
+    width: 237px;
+    left: 1133px;
+    top: 11151.16796875px;
+    position: absolute;
+}
+
+.character .sub04 {
+    height: 184px;
+    width: 245px;
+    left: 1467.7152099609375px;
+    top: 11186.7548828125px;
+    position: absolute;
+}
+
+.character .title {
+    position: absolute;
+    left: 248.1px;
+    top: 10782.17px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #3C3C3C;
+}
+
+.character .contents {
+    position: absolute;
+    left: 247px;
+    top: 10867.94px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 41px;
+    color: #3C3C3C;
+}
+
+.bg_shape {
+    left: 0px;
+    top: 11391px;
+    position: absolute;
+}
+
+.icon img {
+    position: absolute;
+    left: 248.2333984375px;
+    top: 11804px;
+}
+
+.icon .title {
+    position: absolute;
+    left: 247px;
+    top: 12336px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 60px;
+    color: #3C3C3C;
+}
+
+.icon .contents {
+    position: absolute;
+    left: 247.55078125px;
+    top: 12430.8359375px;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 28px;
+    color: #3C3C3C;
+}
+
+.fixed01 {
+    height: 1440px;
+    width: 100%;
+    top: 12759.6220703125px;
+    position: absolute;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+
+/* ~~~~~~~~~~~~~~~~~~~~~~~~~~~~ js */
+#myBtn {
+    position: fixed;
+    cursor: pointer;
+    left: 1754.6025390625px;
+    top: 838.22314453125px;
+    z-index: 99999;
+}
+
+.view {
+    position: absolute;
+    overflow: hidden;
+    width: 1920px;
+    margin: 30px auto;
+    top: 1229px;
+    position: absolute;
+}
+
+.slide {
+    list-style: none;
+    width: 9600px;
+}
+
+.slide li {
+    width: 1920px;
+    float: left;
+}
+
+.slide li img {
+    width: 100%;
+}
+
+button {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    cursor: pointer;
+    border-style: none;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+button.prev {
+    left: 20px;
+}
+
+button.next {
+    right: 20px;
+}
+
+#dot {
+    text-align: center;
+    left: 850px;
+    top: 2187px;
+    position: absolute;
+}
+
+#dot>ul>li {
+    display: inline-block;
+    margin: 10px;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background: #DEDEDE;
+    cursor: pointer;
+}
+
+#dot>ul li a {
+    display: block;
+}
+
+#dot ul li.on {
+    background: #707070;
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+}
+
+.content .cnt01 {
+    top: 1159px;
+    height: 2317.68px;
+}
+
+.content .cnt02 {
+    height: 4871px;
+    top: 3790px;
+}
+
+.content .cnt03 {
+    height: 3663.84px;
+    top: 8795px;
+}
+
+.content .cnt04 {
+    height: 2370.09px;
+    top: 12759.62px;
+}
